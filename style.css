@@ -25,6 +25,10 @@ div>p:first-child{
     font-style: italic;
 }
 
+button{
+    border-radius: 10px;
+}
+
 button:hover{
     color: blue;
 }
